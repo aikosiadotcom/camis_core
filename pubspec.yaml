@@ -2,7 +2,7 @@ name: camis_core
 description: A new Flutter package project.
 version: 0.0.1
 homepage: https://aikosia.com
-repository: 
+repository: https://github.com/aikosiadotcom/camis_core.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
